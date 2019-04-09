@@ -2,7 +2,7 @@ title: Sabadam32
 description: Work that interests me
 google_analytics: false
 show_downloads: false
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 
 gems:
   - jekyll-mentions
